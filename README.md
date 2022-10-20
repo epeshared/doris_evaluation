@@ -1,4 +1,4 @@
-# doris_evaluation
+# Doris Performance Evaluation
 
 ## 配置
 https://doris.apache.org/zh-CN/docs/install/install-deploy/
