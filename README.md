@@ -1,6 +1,7 @@
 # Doris Performance Evaluation
 
 ## 配置
+https://doris.apache.org/docs/get-starting/
 https://doris.apache.org/zh-CN/docs/install/install-deploy/
 
 ## TPCH setting
